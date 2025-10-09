@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: #fff;
+    background: #231b1b;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     position: sticky;
     top: 0;
@@ -28,7 +28,7 @@ header {
 
 .logo {
     font-size: 1.8rem;
-    color: #e89cae;
+    color: #b7c37c;
     font-weight: bold;
 }
 
@@ -43,7 +43,7 @@ header {
 
 .nav-links a {
     text-decoration: none;
-    color: #444;
+    color: #312828;
     font-weight: 500;
 }
 
@@ -70,7 +70,7 @@ header {
 
 .hero-content button {
     background: #fff;
-    color: #e89cae;
+    color: #b9e89c;
     border: none;
     padding: 12px 30px;
     border-radius: 25px;
@@ -80,7 +80,7 @@ header {
 }
 
 .hero-content button:hover {
-    background: #e89cae;
+    background: #9ce8c5;
     color: #fff;
 }
 
@@ -91,7 +91,7 @@ header {
 
 .about h2, .shop h2, .contact h2 {
     font-size: 2rem;
-    color: #e89cae;
+    color: #a9e89c;
     margin-bottom: 20px;
 }
 
@@ -121,7 +121,7 @@ header {
 
 .product button {
     margin-top: 10px;
-    background: #e89cae;
+    background: #9ce8ba;
     color: white;
     border: none;
     padding: 10px;
@@ -145,7 +145,7 @@ header {
 }
 
 .contact button {
-    background: #e89cae;
+    background: #9ce8aa;
     color: white;
     border: none;
     padding: 12px;
